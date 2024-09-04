@@ -1,5 +1,8 @@
 # Amazon Sales Insight Project
 
+## Project Overview
+This project involves analyzing sales data from three Amazon branches located in Mandalay, Yangon, and Naypyitaw. The dataset consists of 1000 rows and 17 columns, including invoice details, product lines, prices, quantities, taxes, dates, and customer demographics. The goal is to leverage this data to enhance sales strategies, improve product offerings, and gain a deeper understanding of customer segments.
+
 ## Business Problem
 Amazon seeks to understand various factors influencing sales across its branches to optimize business strategies. Key challenges include identifying high-performing product lines, understanding sales trends over time, and segmenting customers based on purchasing behavior. Addressing these challenges will help Amazon refine its product offerings, tailor marketing strategies, and ultimately increase revenue.
 
